@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Никита\\fakk\\DecoratorPattern\\DecoratorPattern.csproj": {}
+    "C:\\Users\\Никита\\Source\\Repos\\GRASP\\DecoratorPattern\\DecoratorPattern.csproj": {}
   },
   "projects": {
-    "D:\\Никита\\fakk\\DecoratorPattern\\DecoratorPattern.csproj": {
+    "C:\\Users\\Никита\\Source\\Repos\\GRASP\\DecoratorPattern\\DecoratorPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Никита\\fakk\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectUniqueName": "C:\\Users\\Никита\\Source\\Repos\\GRASP\\DecoratorPattern\\DecoratorPattern.csproj",
         "projectName": "DecoratorPattern",
-        "projectPath": "D:\\Никита\\fakk\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectPath": "C:\\Users\\Никита\\Source\\Repos\\GRASP\\DecoratorPattern\\DecoratorPattern.csproj",
         "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
-        "outputPath": "D:\\Никита\\fakk\\DecoratorPattern\\obj\\",
+        "outputPath": "C:\\Users\\Никита\\Source\\Repos\\GRASP\\DecoratorPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",

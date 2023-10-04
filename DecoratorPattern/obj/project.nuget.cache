@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J3jLqRWrgRru3LUeJztcOojZLGfLcOnYarO2JILyp4Xh6Wckxi+mRbk0NudAIPbNg7AdSdwviYVcYggeglsmyA==",
+  "dgSpecHash": "SUjHvxUtrwEG/fu4qnf1WcPQVFPb3HDktjWbaE2UyQR+ZPd9dXp1JTQuTCWkqwTbom3gq3MMnedJHfRareprhg==",
   "success": true,
-  "projectFilePath": "D:\\Никита\\fakk\\DecoratorPattern\\DecoratorPattern.csproj",
+  "projectFilePath": "C:\\Users\\Никита\\Source\\Repos\\GRASP\\DecoratorPattern\\DecoratorPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
